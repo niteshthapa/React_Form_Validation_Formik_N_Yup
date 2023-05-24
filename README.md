@@ -14,7 +14,7 @@ In the example above, the validationSchema object defines the validation rules f
 
 This is just a basic example, and you can customize it further based on your specific requirements. Formik and Yup offer many more features and options for handling complex forms and validations.
 
-[Demo](https://stackblitz.com/edit/react-yybtdu?file=package.json,src%2Findex.js,src%2FApp.js).
+[Demo](https://stackblitz.com/edit/react-p98pqa?file=src%2FApp.js,src%2Fcomponents%2FFormFormik.js,public%2Findex.html).
 
 
 

@@ -8,3 +8,5 @@ Formik: Formik is a library that helps with form handling in React. It simplifie
 
 Yup: Yup is a JavaScript schema validation library that works well with Formik. It allows you to define a validation schema for your form fields, specifying the expected types, formats, and constraints for each field.
 
+When used together, Formik and Yup provide a powerful solution for form handling and validation in React applications. Formik manages the form state and submission, while Yup takes care of the validation rules.
+
